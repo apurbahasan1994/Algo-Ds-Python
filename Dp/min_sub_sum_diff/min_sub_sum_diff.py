@@ -31,4 +31,4 @@ def min_sub_sum_diff(nums):
     return min_value
 
 
-print(min_sub_sum_diff([2, 4, 2, 3]))
+print(min_sub_sum_diff([2, 4, 2, 3, 1]))
